@@ -14,4 +14,8 @@ public class Student {
 		this.name=name;
 		this.courses= new HashSet<Course>();
 	}
+	public static Student get(String ID) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
